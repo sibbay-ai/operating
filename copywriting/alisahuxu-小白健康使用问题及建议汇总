@@ -1,0 +1,88 @@
+
+1.用药剂量的选择
+问题：用药时间每天有很多次，这里只有一个选项
+建议：划分出剂量、次数、时间、根据时间提醒用药。
+图片: https://images-cdn.shimo.im/A0TTVJljewA2O7Cx/image.png!thumbnail
+2.症状申请
+问题：普通用户可能分不清“症状”和“疾病”，比如：感冒，当用户进入“症状”记录页面时，如果判定进入错误，应该有引导语句，请他前往“疾病”或其他记录页面。
+建议：打通这“症状”和“疾病”环节。
+
+3.症状申请
+问题：目前是人工审核症状申请，会有时间延迟
+建议：当下解决方案就是给到用户反馈，比如：您的症状已经在后台审核，预计几小时通过后会显示，请耐心等待。
+
+4.收不到小白的用药，症状等提醒。
+
+5.症状
+问题：右侧小圆点过多，且不能直观表达信息，给用户困惑。
+建议：去掉小圆点，或者用新的图形显示最近一次症状表现。
+图片: https://images-cdn.shimo.im/9dr5Oa4vqx0rBLAr/webwxgetmsgimg_3_.jpg!thumbnail6.配置
+问题：用户首次使用并不知道“配置”会是什么
+建议：“配置”改成“发现”
+图片: https://images-cdn.shimo.im/DQsgPPgduOAPwb2G/webwxgetmsgimg_4.jpg!thumbnail
+7.首页表单“自定义”
+问题：每个用户不是都会经常测量心率和血糖
+建议：增添“腰围”“体温”“血压”
+
+8.备注什么？
+问题：“备注”什么？
+建议：举个例子
+图片: https://images-cdn.shimo.im/Pf5FA9wthbAWzzYA/webwxgetmsgimg_2_.jpeg!thumbnail
+
+9.标题栏
+问题：2个“家人”
+建议：删掉一个，或者显示用户-家人
+图片: https://images-cdn.shimo.im/eCvIEFek9CIX1kTS/webwxgetmsgimg_3_.jpeg!thumbnail
+10.“家人”首页显示和用户不同
+问题：如上
+建议：自定义
+图片: https://images-cdn.shimo.im/HeVj4HFQLckPluxl/webwxgetmsgimg_4_.jpeg!thumbnail
+
+11.建议反馈
+问题：点击跳转到表单页面
+建议：点击跳转到聊天界面
+图片: https://images-cdn.shimo.im/CSghPwAWVgo3G6qE/webwxgetmsgimg_5_.jpeg!thumbnail
+
+12.添加用药时间和剂量
+问题：已经添加过，此处显示让用户以为还要再添加
+建议：已经添加过的，就显示当前的时间和计量。
+
+图片: https://images-cdn.shimo.im/l7bnEgx2eSw1ZLHT/webwxgetmsgimg_2_.jpeg!thumbnail
+
+13.节气问候语
+问题：冗长
+建议：有节气问候，就不要说上午好之类的。
+图片: https://images-cdn.shimo.im/j1e1Ljmgt80kDnNr/webwxgetmsgimg_2_.jpeg!thumbnail
+
+
+14.用户推荐小白给别人
+问题：没有相应的回答（如下图）
+建议：有一句提示：感谢分享
+图片: https://images-cdn.shimo.im/9A7mCD7w60IZAm1n/webwxgetmsgimg_2_.jpeg!thumbnail
+必须关联“微信运动”
+问题：为什么一定要绑定“微信运动”
+建议：第一次使用时提醒，下次不要再打扰用户，或者设定每个月提醒一次。
+
+图片: https://images-cdn.shimo.im/wLLasFpcMPcgi4V5/webwxgetmsgimg.jpeg!thumbnail
+
+
+一个bug:点赞功能不健全，如下图
+没有逗号，我是一个用户，炸酱面是另一个用户
+图片: https://images-cdn.shimo.im/lj5E2QyK4EQBUvcW/234.png!thumbnail
+一个bug:点赞功能不健全，如下图：
+没点赞的前提下，出现了“取消”
+图片: https://images-cdn.shimo.im/ZEzR1dTS2CQNxfiD/234.png!thumbnail
+18.互动语句没有选错重来的选项
+问题：在每天和小白开始第一次互动，有时候，我因为太快选错了，想重来，没有这个按钮。
+建议：在互动问询结束后，再问一下：要不要再来一次？
+图片: https://images-cdn.shimo.im/7Cnpkw0e0bkIEDS9/WechatIMG4.jpeg!thumbnail
+19.症状回顾太长
+问题：一个用户随着使用的增加，他的症状是增加的，每次都问一遍，让人没有耐心。
+建议方案一：≥3个症状时，合并为表格，让用户勾选，是否有以下几个老症状，如果有，再问是：轻微，中度，严重。
+建议方案二：在症状管理界面，可以选择删除已经治愈的症状。
+图片: https://images-cdn.shimo.im/jEZtQpXAI8Arhexa/WechatIMG3.jpeg!thumbnail
+
+20.这个界面不知道是做什么用
+问题：功能不清，内容空白。
+建议：根据功能补充文案
+图片: https://images-cdn.shimo.im/xTyESDfB6fQNHhxh/WechatIMG6.jpeg!thumbnail
